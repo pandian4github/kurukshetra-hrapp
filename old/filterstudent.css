@@ -1,0 +1,58 @@
+#main-content
+{
+	height: 1000px;
+	overflow: scroll;
+	border-radius: 0px;
+}
+#searchstudentdetails
+{
+	color:brown;
+	font-size:2.5em;
+	text-align: center;
+}
+#searchresulttable
+{
+	margin-top:20px;
+	margin-left:5%;
+}
+#searchform
+{
+	padding-left: 20%;
+	padding-top: 20px;
+}
+#searchform input
+{
+	border: 1px solid black;
+	border-radius: 5px;
+}
+#searchform select
+{
+	border:1px solid black;
+}
+#searchform input:hover
+{
+	border:1px solid red;
+}
+#searchform select:hover
+{
+	border:1px solid red;
+}
+#searchform label
+{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+#searchresult
+{
+	font-size:1.5em;
+	color:black;
+	padding-left:10%;
+	font-weight: bold;
+}
+#noentriesfound
+{
+	font-size:1.3em;
+	color:red;
+	padding-left:60px;
+	padding-top:15px;
+}

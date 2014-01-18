@@ -1,0 +1,40 @@
+#studentdetails
+{
+	font-size:2em;
+	color:brown;
+	text-align:center;
+	margin-top:15px;
+}
+#noentryfound
+{
+	font-size:1.5em;
+	text-align:center;
+	margin-top:15px;
+}
+#displaytable
+{
+	margin-top: 20px;
+	width:90%;
+	margin-left: 10%;
+}
+#txtareahead
+{
+	text-align:center;
+	font-size:2em;
+	color:brown;
+	margin-top:20px;
+}
+#textarea
+{
+	margin-left:50px;
+	border:1px solid black;
+	border-radius:10px;
+}
+#textarea:hover
+{
+	border:1px solid brown;
+}
+#updatebutton
+{
+	float:right;
+}
